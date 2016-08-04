@@ -1,0 +1,39 @@
+_repo: The-Merry-Adventures-of-Robin-Hood_964
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2006-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '964'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Robin Hood (Legendary character) -- Legends'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Folklore -- England'
+- GITenberg
+tableOfContents: 'Preface: from the author to the reader -- How Robin Hood came to
+  be an outlaw -- Robin Hood and the tinker -- The shooting-match at Nottingham town
+  -- Will Stutely rescued by his good companions -- Robin Hood turns butcher -- Little
+  john goes to Nottingham fair -- How Little John lived at the sheriff''s -- Little
+  John and the tanner of Blyth -- Robin Hood and Will Scarlet -- The adventure with
+  Midge the miller''s son -- Robin Hood and Allan a Dale -- Robin seeketh the Curtal
+  Friar -- Robin Hood compasses a marriage -- Robin Hood aids a sorrowful knight --
+  How Sir Richard of the Lea paid his debts -- Little John turns barefoot friar --
+  Robin Hood turns beggar -- Robin Hood shoots before Queen Eleanor -- The chase of
+  Robin Hood -- Robin Hood and Guy of Gisbourne -- King Richard comes to Sherwood
+  Forest -- Epilogue.'
+title: The Merry Adventures of Robin Hood
+url: http://www.gutenberg.org/ebooks/964
